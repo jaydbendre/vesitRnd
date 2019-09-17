@@ -1,0 +1,131 @@
+
+                            <br><br>
+                            <div id="fundedprojects">
+                                <h2>FUNDED PROJECTS</h2>
+                                <div class="column-element" style="align: center; display: flexbox;"">
+                                        <div class="row">
+                                            <div class="col-sm-4">
+                                                <img src="data:image/jpeg;base64,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" height="150px" width="150px" class="pro-img"/>
+                                            </div>
+                                            <div class="col-sm-8">
+                                                Project Incharge: ABC <br>
+                                                Date: <br>
+                                                Area of Research: <br>
+                                                Name of Students: <br>
+                                            </div>
+                                        </div><br>
+                                    </div>
+    
+                                    <h2>Abstract/Description</h2>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <h2>Publication</h2>
+                                    <br><br><br>
+                                    <div>
+                                        <h3>Related Images</h3>
+                                        @for($i=0;$i<1;$i++)
+                                        <div class="row">
+                                            @for($j=0;$j<3;$j++)
+                                            <div class="column" style="align: center;padding: 30px;">
+                                                <div class="column-element" style="align: center; display: flexbox;">
+                                                <img src="https://i.stack.imgur.com/34AD2.jpg" height="150px" width="150px" class="pro-img"/>
+                                                <br><a href="/project-page"><b><p style="text-align: center;">Name of Project: {{$i}}</p></b></a>
+                                            </div>
+                                            </div>
+                                            &nbsp; 
+                                            @endfor
+                                        </div>
+                                        @endfor
+                                    </div>
+                            </div>
+
+
+
+
+                            <div id="idcprojects">
+                                    <h2>INDUSTRY COLLABORATED PROJECTS</h2>
+                                    <div class="column-element" style="align: center; display: flexbox;"">
+                                            <div class="row">
+                                                <div class="col-sm-4">
+                                                    <img src="https://i.stack.imgur.com/34AD2.jpg" height="150px" width="150px" class="pro-img"/>
+                                                </div>
+                                                <div class="col-sm-8">
+                                                    Project Incharge: ABC <br>
+                                                    Date: <br>
+                                                    Area of Research: <br>
+                                                    Name of Students: <br>
+                                                </div>
+                                            </div><br>
+                                        </div>
+        
+                                        <h2>Abstract/Description</h2>
+                                        <br>
+                                        <br>
+                                        <br>
+                                        <h2>Publication</h2>
+                                        <br><br><br>
+                                        <div>
+                                            <h3>Related Images</h3>
+                                            @for($i=0;$i<1;$i++)
+                                            <div class="row">
+                                                @for($j=0;$j<3;$j++)
+                                                <div class="column" style="align: center;padding: 30px;">
+                                                    <div class="column-element" style="align: center; display: flexbox;">
+                                                    <img src="https://i.stack.imgur.com/34AD2.jpg" height="150px" width="150px" class="pro-img"/>
+                                                    <br><a href="/project-page"><b><p style="text-align: center;">Name of Project: {{$i}}</p></b></a>
+                                                </div>
+                                                </div>
+                                                &nbsp; 
+                                                @endfor
+                                            </div>
+                                            @endfor
+                                        </div>
+                                </div>
+
+
+
+                                <div id="inhouseprojects">
+                                        <h2>INHOUSE PROJECTS</h2>
+                                        <div class="column-element" style="align: center; display: flexbox;"">
+                                                <div class="row">
+                                                    <div class="col-sm-4">
+                                                        <img src="https://i.stack.imgur.com/34AD2.jpg" height="150px" width="150px" class="pro-img"/>
+                                                    </div>
+                                                    <div class="col-sm-8">
+                                                        Project Incharge: ABC <br>
+                                                        Date: <br>
+                                                        Area of Research: <br>
+                                                        Name of Students: <br>
+                                                    </div>
+                                                </div><br>
+                                            </div>
+            
+                                            <h2>Abstract/Description</h2>
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <h2>Publication</h2>
+                                            <br><br><br>
+                                            <div>
+                                                <h3>Related Images</h3>
+                                                @for($i=0;$i<1;$i++)
+                                                <div class="row">
+                                                    @for($j=0;$j<3;$j++)
+                                                    <div class="column" style="align: center;padding: 30px;">
+                                                        <div class="column-element" style="align: center; display: flexbox;">
+                                                        <img src="https://i.stack.imgur.com/34AD2.jpg" height="150px" width="150px" class="pro-img"/>
+                                                        <br><a href="/project-page"><b><p style="text-align: center;">Name of Project: {{$i}}</p></b></a>
+                                                    </div>
+                                                    </div>
+                                                    &nbsp; 
+                                                    @endfor
+                                                </div>
+                                                @endfor
+                                            </div>
+                                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
