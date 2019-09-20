@@ -45,10 +45,10 @@
                         <img src="http://ves.ac.in/vesit/wp-content/uploads/sites/3/2015/11/IMG_93121-optimized.jpg" alt="Los Angeles" style="height: 300px;width: 100%">
                       </div>
                       <div class="carousel-item">
-                        <img src="http://ves.ac.in/vesit/wp-content/uploads/sites/3/2015/11/IMG_93121-optimized.jpg" alt="Chicago" style="height: 300px;width: 100%">
+                        <img src="https://ves.ac.in/wp-content/uploads/2015/10/ves_slider_3.jpg" alt="Chicago" style="height: 300px;width: 100%">
                       </div>
                       <div class="carousel-item">
-                        <img src="http://ves.ac.in/vesit/wp-content/uploads/sites/3/2015/11/IMG_93121-optimized.jpg" alt="New York" style="height: 300px;width: 100%">
+                        <img src="https://ves.ac.in/wp-content/uploads/2015/10/MG_9076.jpg" alt="New York" style="height: 300px;width: 100%">
                       </div>
                     </div>
                   
